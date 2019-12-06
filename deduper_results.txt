@@ -1,0 +1,16 @@
+Read Counts
+
+Dataset1:
+1013180 pre-deduplication
+1004954 post-deduplication
+8,226 PCR duplicates removed
+
+Dataset2:
+1382109 pre-deduplication
+1372713 post-deduplication
+9,396 PCR duplicates removed
+
+Dataset3:
+5721150 pre-deduplication
+5354092 post-deduplication
+367,058 PCR duplicates removed
